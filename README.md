@@ -15,4 +15,4 @@ var lazyload=!1;window.addEventListener("scroll",function(){(0!=document.documen
 </script>
 </code></pre>
 or you can make it self by insert : <pre><code>https://cdn.statically.io/gh/reedniv/lazyload/jquery/v.1.0/lazyload.js</code></pre>
-and you can make cache javascript by inserted code after *.js**?cache=31556952**
+and you can make cache javascript by inserted code after *.js **?cache=31556952**
