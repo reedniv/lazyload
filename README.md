@@ -7,6 +7,7 @@ Simple Lazyload to blogger
 
 ### How to use
 
+** insert in your own template ** and insert script below :
 <pre><code>
 <script type='text/javascript'>
 /*! Lazyload */
